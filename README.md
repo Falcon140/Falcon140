@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Falcon140
 - 👀 I’m interested in data engineering.
 - 🌱 I’m currently learning Py and advanced SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting Py/SQL knowledges and exercises.
 - 📫 How to reach me - via email: falcon30850@gmail.com
 
 <!---
